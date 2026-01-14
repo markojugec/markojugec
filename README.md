@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I’m Marko 👋
 
-<!--
-**markojugec/markojugec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build context-aware AI Assistants for business coaches.
 
-Here are some ideas to get you started:
+My work focuses on systems that:
+- Capture and qualify leads
+- Book calls intelligently
+- Handle client support with context and memory
+- Integrate cleanly with CRMs and existing workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in practical AI systems that replace manual admin and improve execution after interest — not demos or hype.
+
+### What I’m working on
+- CoachFlow — AI Assistants for lead capture, appointment setting, and client support
+- Context-aware conversational logic and automation pipelines
+- Reliable, maintainable AI workflows for service businesses
+
+### Focus areas
+- Conversational AI & agent design
+- Workflow automation
+- CRM & scheduling integrations
+- System architecture for small teams
+
+---
+
+📍 Based in Croatia  
+🔗 LinkedIn: https://www.linkedin.com/in/markojugec
